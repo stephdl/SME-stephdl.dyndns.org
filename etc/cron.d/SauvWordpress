@@ -1,0 +1,1 @@
+1 10101010101010101010ot rsync -avz --delete --progress root@mirror.de-labrusse.fr://home/e-smith/files/ibays/geekeries2/html/wp-content/uploads/backwpup-26591f-backups/ /root/sauvWordpress/  2>1 >/dev/null

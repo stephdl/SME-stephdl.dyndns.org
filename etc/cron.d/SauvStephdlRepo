@@ -1,0 +1,1 @@
+1 7 * * * root rsync  -avz --progress --delete  rsync://mirror.de-labrusse.fr/stephdl /root/sauv-repository/stephdl-sme  2>1 >/dev/null
